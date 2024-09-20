@@ -38,6 +38,6 @@
 🌟 **Have Fun Matching!** 🌟  
 Feel free to explore the code and immerse yourself in the world of candy matching 🍬. Contributions and feedback are always welcome. Let’s crush it together! 💥💻
 
-
+[!screenshots](https://github.com/eshaagarwa/CandyCrush-Game/blob/main/Screenshot%202024-09-20%20230019.png)
 
 Happy coding and have fun playing! 🎉
